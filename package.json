@@ -1,0 +1,19 @@
+{
+  "name": "scrum-poker",
+  "version": "1.0.0",
+  "description": "POKER! But its for work :D",
+  "scripts": {
+    "start": "npm start --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BijanProgrammerWebsites/scrum-poker.git"
+  },
+  "keywords": ["scrum", "poker"],
+  "author": "BijanProgrammer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BijanProgrammerWebsites/scrum-poker/issues"
+  },
+  "homepage": "https://projects.bijanprogrammer.com/scrum-poker"
+}
